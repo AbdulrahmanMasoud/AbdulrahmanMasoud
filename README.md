@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML5 | CSS3 | JavaScript | PHP | Laravel | ES6 | Jquery | Bootstrap
+- 💻 &nbsp; HTML5 | CSS3 | JavaScript | ES6 | PHP | Laravel 
 - 🛢 &nbsp;  MySQL | SQL | PHPMyAdmin | Xampp | CMD
 - 🌐 &nbsp; DesignAPI | SwaggerAPI | Design Database
 - 🔧 &nbsp; Visual Studio code | Git
