@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Application Development
+- 🔭 &nbsp; I’m BackEnd Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Back-end developer and Front-end web developer.
@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML5 | CSS3 | JavaScript | ES6 | PHP | Laravel 
+- 💻 &nbsp; HTML5 | CSS3 | JavaScript | ES6 | PHP | OOP | MVC | Laravel 
 - 🛢 &nbsp;  MySQL | SQL | PHPMyAdmin | Xampp | CMD
-- 🌐 &nbsp; DesignAPI | SwaggerAPI | Design Database
+- 🌐 &nbsp; DesignAPI | SwaggerAPI | Design Database | JWT | API Documentaion
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
 
