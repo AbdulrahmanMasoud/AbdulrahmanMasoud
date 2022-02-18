@@ -1,6 +1,7 @@
 <h2> Hey there! I'm Abdulrahman. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
+<!--
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m BackEnd Developer
@@ -36,4 +37,4 @@
   &nbsp; <a href="https://stackoverflow.com/users/10334589/abdulrahman" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50" /></a>
 
 </p>
-
+-->
