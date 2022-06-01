@@ -10,13 +10,13 @@
 - 💼 &nbsp; Back-end developer and Front-end web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
+<!-- <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 | PHP | OOP | MVC | Laravel | GoLang | Solidity
 - 🛢 &nbsp;  MySQL | SQL | CMD
 - 🌐 &nbsp; DesignAPI | SwaggerAPI | Design Database | JWT | API Documentaion
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop -->
 
 <br>
 
@@ -30,6 +30,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+ &nbsp; <a href="https://dev.to/theamasoud" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/dev.png" width="50" alt="DEV"/></a>  
 &nbsp; <a href="https://facebook.com/abdulrahmanmasoudofficial" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
  &nbsp; <a href="https://twitter.com/theamasoud" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/_abdulrahmanmasoud_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
