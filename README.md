@@ -19,13 +19,15 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop -->
 
 <br>
-
+<a href="https://app.daily.dev/theamasoud" width="300"><img src="https://api.daily.dev/devcards/86f458e50645438481204ed21030de9e.png?r=pyx" width="400" alt="Abdulrahman Masoud's Dev Card"/></a>
+<!--
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmasoud&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AbdulrahmanMasoud's Github Stats">
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmasoud&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/abdulrahmanmasoud/github-readme-stats)
-
+-->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
