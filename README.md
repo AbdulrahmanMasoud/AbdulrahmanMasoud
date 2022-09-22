@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m BackEnd Developer && Blockchain Developer 🤔
+- 🔭 &nbsp; I’m BackEnd Developer 🤔
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Back-end developer and Front-end web developer.
