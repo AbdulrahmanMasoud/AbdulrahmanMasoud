@@ -6,9 +6,9 @@
 
 - 🔭 &nbsp; I’m BackEnd Developer 🤔
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science, computer programming, and Mathematics.
 - 💼 &nbsp; Back-end developer and Front-end web developer.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <!-- <h3>🛠 Tech Stack</h3>
 
@@ -19,7 +19,8 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop -->
 
 <br>
-<a href="https://app.daily.dev/theamasoud" width="300"><img src="https://api.daily.dev/devcards/86f458e50645438481204ed21030de9e.png?r=pyx" width="400" alt="Abdulrahman Masoud's Dev Card"/></a>
+<!--
+<a href="https://app.daily.dev/theamasoud" width="300"><img src="https://api.daily.dev/devcards/86f458e50645438481204ed21030de9e.png?r=pyx" width="400" alt="Abdulrahman Masoud's Dev Card"/></a>-->
 <!--
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmasoud&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AbdulrahmanMasoud's Github Stats">
